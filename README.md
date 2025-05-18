@@ -8,7 +8,7 @@ A simple desktop application built with Python and Tkinter that allows users to 
 -  Show a saved password for any account
 -  List all saved accounts
 -  Simple user interface built with Tkinter
-- 🗃 In-memory storage (upgradeable to file/db)
+- In-memory storage (upgradeable to file/db)
 
 Usage
 
